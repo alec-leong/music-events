@@ -1,6 +1,6 @@
 <!-- https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops -->
 
-# react-express-starter
+# react-express-starter-v2
 
 ## About
 
@@ -73,14 +73,14 @@
   $ npm run react-dev
 ```
 
-#### &emsp; &emsp;_bundle.js_ is now compiled
+#### &emsp;&emsp;&emsp;&emsp;_bundle.js_ is now compiled
 
 ```
-    .
-    └── client
-        └── dist
-            ├── index.html
-            └── bundle.js
+        .
+        └── client
+            └── dist
+                ├── index.html
+                └── bundle.js
 ```
 
 ### 3. Open a new terminal
@@ -91,6 +91,8 @@
   $ npm run server-dev
 ```
 
+#### &emsp;&emsp;&emsp;&emsp;Now visit _[http://localhost:3000/](http://localhost:3000/)_ to see the React application.
+
 ---
 
 ## Test App.jsx
@@ -99,13 +101,13 @@
   $ npm run react-test
 ```
 
-### &emsp;&emsp;_App.test.jsx.snap_ is now created; output of test results
+### &emsp;&emsp;&emsp;_App.test.jsx.snap_ is now created; output of test results
 
 ```
-    .
-    └── tests
-        └── __snapshots__
-            └── App.test.jsx.snap
+        .
+        └── tests
+            └── __snapshots__
+                └── App.test.jsx.snap
 ```
 
 ---

@@ -1,6 +1,6 @@
 {
-  "name": "react-express-starter",
-  "version": "1.0.0",
+  "name": "react-express-starter-v2",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alec-leong/react-express-starter.git"
+    "url": "git+https://github.com/alec-leong/react-express-starter-v2.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alec Leong",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alec-leong/react-express-starter/issues"
+    "url": "https://github.com/alec-leong/react-express-starter-v2/issues"
   },
-  "homepage": "https://github.com/alec-leong/react-express-starter#readme",
+  "homepage": "https://github.com/alec-leong/react-express-starter-v2#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "bluebird": "^3.7.2",
