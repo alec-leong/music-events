@@ -60,11 +60,11 @@
   $ npm install
 ```
 
-### &emsp;&emsp;_node_modules_ directory is now added
+#### &emsp;&emsp;&emsp;&emsp;_node_modules_ directory is now added
 
 ```
-    .
-    └── node_modules
+        .
+        └── node_modules
 ```
 
 ### 2. Start webpack
