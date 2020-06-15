@@ -40,7 +40,7 @@ app.use(express.static(path.join(__dirname, '../client/dist')));
 
 // HTTPS server
 const server = spdy.createServer(spdyServerOptions, app);
-server.listen(PORT, () => console.log(`HTTP/2 NodeJS server listening on port ${colors.green(PORT)}`));
+server.listen(PORT, () => console.log(`NodeJS HTTP/1 server listening on port ${colors.green(PORT)}`));
 
 
 /* ==================================== HTTP request helpers ==================================== */
